@@ -24,4 +24,6 @@ if you're a fan of kanye west; you ain't a fan of me, you're a fan of yourself!
 ---
 [![](https://komarev.com/ghpvc/?username=yashwarik121&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+npx generate-snake-animation@3 --forgejo_user codeberg.org/JasterV --output snake.svg?palette=codeberg
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
