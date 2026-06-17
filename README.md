@@ -2,7 +2,7 @@ i code shit and i code code
 
 
 ###
-![Leetcode Stats](https1://leetcard.jacoblin.cool/warriikkk?ext=heatmap)
+<!--![Leetcode Stats](https1://leetcard.jacoblin.cool/warriikkk?ext=heatmap)-->
 
 
 
